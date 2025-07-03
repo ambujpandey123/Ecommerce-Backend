@@ -69,9 +69,9 @@ This project is a Node.js Express backend server with Prisma ORM and MongoDB for
 - **GET** `/api/cart`
 - **DELETE** `/api/cart`
 
-## License
-MIT
+### Api Testing Reference File 
+- [API Example Reference](./API_EXAMPLES.md)
 
 ## Contact
-For any questions, contact me at myemail@example.com.
+For any questions, contact me at ambuj123p@gmail.com
 
